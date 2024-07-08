@@ -1,5 +1,5 @@
 # Android_Development_In_Kotlin
-Holla vafana, Here is a description for your new repository on learning Android development with Kotlin:
+Holla Holla vafana, himina ThugXD, Here is a description for your new repository on learning Android development with Kotlin:
 
 
 # Android Developer Kotlin Course
@@ -34,13 +34,6 @@ The repository is organized into different modules, each focusing on a specific 
 2. **Open in Android Studio**: Open the cloned repository in Android Studio.
 3. **Follow the Modules**: Start with the first module and follow along with the course.
 
-## Contribution
-
-We welcome contributions to improve the course content! Feel free to open issues for any bugs you find or suggestions you have. If you would like to contribute code, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
